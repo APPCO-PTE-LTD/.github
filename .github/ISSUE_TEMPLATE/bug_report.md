@@ -15,7 +15,6 @@ assignees: ""
 | URL | |
 | Issue Type | |
 | Browser/Device | |
-| Severity | Blocker / Major / Minor / Cosmetic |
 
 ## Description
 
