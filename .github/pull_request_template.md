@@ -13,6 +13,9 @@ Closes #
 - Manual:
 - Not tested (and why):
 
+## QA notes
+<!-- For QA on Preview: roles affected, test accounts or data needed, shared flows touched. "None" if none. -->
+
 ## Screenshots / recording
 <!-- For UI changes. Before and after where useful. N/A otherwise. -->
 
